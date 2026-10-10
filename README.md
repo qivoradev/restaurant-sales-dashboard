@@ -27,15 +27,15 @@ Dashboard Excel interaktif untuk memantau penjualan, jam sibuk, dan popularitas 
 
 ## 🔍 Insight Utama
 
-1. **Dua jam sibuk:** 12:00–13:00 (puncak 1.600+ item per jam) dan 17:00–18:00.
+1. **Dua jam sibuk:** 12:00-13:00 (puncak 1.600+ item per jam) dan 17:00-18:00.
 2. **Kategori:** Italian dan Asian paling besar kontribusinya, American paling rendah.
 3. **Hari:** Penjualan relatif stabil; Senin tertinggi, Rabu terendah.
 
 ## 💡 Rekomendasi
 
-- Fokuskan staf pada dua jam sibuk, dan pakai jam 14:00–16:00 untuk persiapan bahan dan istirahat.
+- Fokuskan staf pada dua jam sibuk, dan pakai jam 14:00-16:00 untuk persiapan bahan dan istirahat.
 - Bundling menu American dengan bestseller Italian/Asian.
-- Tawarkan add-on $2–$4 (minuman/side dish) untuk menaikkan nilai per order dari $29.80 ke ~$32–$34.
+- Tawarkan add-on $2-$4 (minuman/side dish) untuk menaikkan nilai per order dari $29.80 ke ~$32-$34.
 - Uji promo tengah minggu untuk hari Rabu.
 
 ## ▶️ Cara Menggunakan
