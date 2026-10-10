@@ -41,7 +41,7 @@ Dashboard Excel interaktif untuk memantau penjualan, jam sibuk, dan popularitas 
 ## ▶️ Cara Menggunakan
 
 1. Unduh `restaurant_sales_dashboard.xlsx` dan buka di Microsoft Excel (versi desktop).
-2. Buka sheet **dashboard**, lalu klik slicer untuk memfilter. Tahan **Ctrl** untuk pilih lebih dari satu, klik ikon filter ✕ untuk reset.
+2. Buka sheet **dashboard**, lalu klik slicer untuk memfilter. Tahan **Ctrl** untuk pilih lebih dari satu, klik ikon filter X untuk reset.
 
 ## 👤 Penulis
 
